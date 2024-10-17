@@ -1,0 +1,4 @@
+aiogram==2.25.2
+APScheduler==3.10.4
+mistune==3.0.2
+pytz==2023.3
